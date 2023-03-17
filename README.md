@@ -28,7 +28,7 @@ The Analysis of each image follow these steps : <br>
 4. Finally the last model determine the severity of damages based on three classes : Minor, Moderate, Severe
 
 ## Demo 
-<img src="Demo Images/democardamage.gif" alt="app_gif" style="height: 400px; width:800px;"/>
+<img src="Demo Images/demopeek.gif" alt="app_gif" style="height: 400px; width:800px;"/>
 
 ## :calendar: Futur Works
 
